@@ -9,7 +9,7 @@ import static org.binarfud.View.MenuView.*;
 public class MenuController {
     static int input;
     static String line = "==========================";
-    static Map<Integer, MenuModel> listMenu = new HashMap<>();
+    public static Map<Integer, MenuModel> listMenu = new HashMap<>();
     static ArrayList<Integer> params = new ArrayList<>();
 
     public static void insertMenu(){
