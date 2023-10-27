@@ -1,2 +1,2 @@
 # BinarFud
-Challenge_3 (implemented Lambda, Optional, Stream, &amp; JUnit)
+Challenge 4 - Chapter 4
